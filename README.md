@@ -1,2 +1,2 @@
 # qcp-2023-2
-Website of the course Quantum Computer Programming 2023-2, National University of Colombia
+Quantum Computer Programming course website 2023-2 https://fagonzalezo.github.io/qcp-2023-2/ 
