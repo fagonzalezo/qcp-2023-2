@@ -50,7 +50,7 @@ image:
 			</td>
 			<td>
 				<a href="exercises1.pdf">Exercise set 1</a><br>
-				<a href="https://colab.research.google.com/drive/1by-EsH2doCOpdh_BaHJpYKc751cGxda_?usp=sharing">Assignment 1</a>
+				<!-- <a href="https://colab.research.google.com/drive/1by-EsH2doCOpdh_BaHJpYKc751cGxda_?usp=sharing">Assignment 1</a> -->
 			</td>
 		</tr>
 		<tr>
@@ -87,7 +87,7 @@ image:
 			</td>
 			<td>
 				<a href="exercises3.pdf">Exercise set 3</a><br>
-				<a href="https://colab.research.google.com/drive/1eO25UKnQ9khY4zjoNdMgkPxGU9HJ64cT?usp=sharing">Assignment 2</a>
+				<!-- <a href="https://colab.research.google.com/drive/1eO25UKnQ9khY4zjoNdMgkPxGU9HJ64cT?usp=sharing">Assignment 2</a> -->
 			</td>
 		</tr>
 		<tr>
@@ -140,7 +140,7 @@ image:
 			</td>
 			<td>
 				<a href="exercises5.pdf">Exercise set 5</a><br>
-				<a href="https://colab.research.google.com/drive/1LqX6AN2o-2jacsQK5mx5156hsyJsuG_i?usp=sharing">Assignment 3</a><br>
+				<!-- <a href="https://colab.research.google.com/drive/1LqX6AN2o-2jacsQK5mx5156hsyJsuG_i?usp=sharing">Assignment 3</a><br> -->
 			</td>
 		</tr>
 		<tr>
