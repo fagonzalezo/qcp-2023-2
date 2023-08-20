@@ -50,7 +50,7 @@ image:
 			</td>
 			<td>
 				<a href="exercises1.pdf">Exercise set 1</a><br>
-				<!-- <a href="https://colab.research.google.com/drive/1by-EsH2doCOpdh_BaHJpYKc751cGxda_?usp=sharing">Assignment 1</a> -->
+				<a href="https://colab.research.google.com/drive/1by-EsH2doCOpdh_BaHJpYKc751cGxda_?usp=sharing">Assignment 1</a>
 			</td>
 		</tr>
 		<tr>
