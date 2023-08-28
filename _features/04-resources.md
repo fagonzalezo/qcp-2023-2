@@ -10,7 +10,8 @@ image:
 
 
 * [Nielsen10] Michael A. Nielsen & Isaac L. Chuang. [Quantum Computation and Quantum Information](https://books.google.com.co/books?id=-s4DEy7o-a0C&printsec=frontcover&redir_esc=y#v=onepage&q&f=false). CAMBRIDGE UNIVERSITY PRESS. 2010
-* [Asfaw19] Abraham Asfaw et al., [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html). Qiskit Development Team. 2019
++ [Quiskit-TB] IBM, [Qiskit Textbook](https://qiskit.org/learn)
+* [Asfaw19] Abraham Asfaw et al., Learn Quantum Computation using Qiskit. Qiskit Development Team. 2019 (This is the old version of the textbook and has been replaced by [Qiskit-TB], the notebooks can be accessed in this [Github repository](https://github.com/qiskit-community/qiskit-textbook))
 * [Kaye07] Phillip Kaye et al. [An Introduction to Quantum Computing](https://global.oup.com/academic/product/an-introduction-to-quantum-computing-9780198570493?cc=co&lang=en&). Oxford University Press. 2007
 9783319964232). Springer. 2018
 * [Nannicini17] Nannicini, G. [An introduction to quantum computing, without the physics](https://arxiv.org/abs/1708.03684). arXiv preprint arXiv:1708.03684. 2017

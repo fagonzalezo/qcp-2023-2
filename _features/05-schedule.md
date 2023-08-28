@@ -46,7 +46,7 @@ image:
 				<b>Reading material</b>: <br>
 				[Nielsen10] Section 2.1 Linear algebra<br>
 				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
-				[Asfaw19] <a href="https://qiskit.org/textbook/ch-appendix/linear_algebra.html"> 8.1 Linear Algebra </a><br>
+				[Asfaw19] <a href="https://nbviewer.org/github/qiskit-community/qiskit-textbook/blob/main/content/ch-appendix/linear_algebra.ipynb"> 8.1 Linear Algebra </a><br>
 			</td>
 			<td>
 				<a href="exercises1.pdf">Exercise set 1</a><br>
@@ -65,7 +65,7 @@ image:
 				<b>Reading material</b>: <br>
 				[CS191x] Chapter 1 Qubits and Quantum Measurement<br>
 				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
-				[Asfaw19] <a href="https://qiskit.org/textbook/ch-states/introduction.html"> 1. Quantum States and Qubits </a><br>	
+				[Qiskit-TB] <a href="https://learn.qiskit.org/course/basics/single-systems">  Basics of quantum information: Single systems </a><br>	
 			</td>
 			<td>
 				<a href="exercises2.pdf">Exercise set 2</a><br>
@@ -83,7 +83,7 @@ image:
 				<b>Reading material</b>: <br>
 				[CS191x] Chapter 2 Entanglement<br>
 				[Nielsen10] Section 2.2 Postulates of quantum mechanics<br>
-				[Asfaw19] <a href="https://qiskit.org/textbook/ch-gates/introduction.html"> 2. Multiple Qubits and Entanglement </a><br>	
+				[Qiskit-TB] <a href="https://learn.qiskit.org/course/basics/multiple-systems">  Basics of quantum information: Multiple systems </a><br>
 			</td>
 			<td>
 				<a href="exercises3.pdf">Exercise set 3</a><br>
@@ -117,9 +117,10 @@ image:
 				<b>Asynchronous class</b>: <br>
 				Single qubit gates (<a href= "https://drive.google.com/file/d/1JADpgsuB26qZtBjkqBSuV7YJLYZzdp4d/view?usp=sharing">video</a>)<br>
 				<b>Reading material</b>: <br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-states/atoms-computation.html">1.2 The Atoms of Computation</a><br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-states/representing-qubit-states.html">1.3 Representing Qubit States</a><br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-states/single-qubit-gates.html">1.4 Single Qubit Gates</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/introduction/the-atoms-of-computation">Introduction to quantum computing: The atoms of computation </a><br>
+				[Qiskit-TB] <a href="https://learn.qiskit.org/course/basics/single-systems"> Basics of quantum information: Single systems </a><br>
+				[Asfaw19] <a href= "https://nbviewer.org/github/qiskit-community/qiskit-textbook/blob/main/content/ch-states/representing-qubit-states.ipynb">1.3 Representing Qubit States</a><br>
+				[Asfaw19] <a href= "https://nbviewer.org/github/qiskit-community/qiskit-textbook/blob/main/content/ch-states/single-qubit-gates.ipynb">1.4 Single Qubit Gates</a><br>
 			</td>
 			<td>
 				<a href="exercises4.pdf">Exercise set 4</a><br>
@@ -134,9 +135,11 @@ image:
 				<b>Asynchronous class</b>: <br>
 				Multiple qubit gates (<a href= "https://drive.google.com/file/d/1boIThex56zXxQRZ9Oc2NBX-6QYugCOSt/view?usp=sharing">video 1</a>)(<a href= "https://drive.google.com/file/d/1WtzyyLEa5KrW5-PJP0eFKkA6Dgy79m-b/view?usp=sharing">video 2</a>)(<a href= "https://drive.google.com/file/d/16ZPcY5hMWfwGH3AgnE2FkpwyEam1VTuP/view?usp=sharing">video 3</a>)<br>
 				<b>Reading material</b>: <br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/multiple-qubits-entangled-states.html">2.2 Multiple Qubits and Entangled States</a><br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/phase-kickback.html">2.3 Phase Kickback</a><br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-gates/more-circuit-identities.html">2.4 More Circuit Identities</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/introduction/entangled-states">Introduction to quantum computing: Entangled states</a><br>
+				[Qiskit-TB] <a href="https://learn.qiskit.org/course/basics/multiple-systems">  Basics of quantum information: Multiple systems </a><br>
+				[Asfaw19] <a href= "https://nbviewer.org/github/qiskit-community/qiskit-textbook/blob/main/content/ch-gates/multiple-qubits-entangled-states.ipynb">2.2 Multiple Qubits and Entangled States</a><br>
+				[Asfaw19] <a href= "https://nbviewer.org/github/qiskit-community/qiskit-textbook/blob/main/content/ch-gates/phase-kickback.ipynb">2.3 Phase Kickback</a><br>
+				[Asfaw19] <a href= "https://nbviewer.org/github/qiskit-community/qiskit-textbook/blob/main/content/ch-gates/more-circuit-identities.ipynb">2.4 More Circuit Identities</a><br>
 			</td>
 			<td>
 				<a href="exercises5.pdf">Exercise set 5</a><br>
