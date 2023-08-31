@@ -21,7 +21,7 @@ image:
 ### Additional resources
 
 * [IGFAE20] Andrés Gómez. [Introduction to Quantum Computing](https://indico.cern.ch/event/865287/). Short Course, Instituto Galego de Física de Altas Enerxías (IGFAE). 2020
-* [CS191x] Umesh Vazirani. [BerkeleyX CS191x: Quantum Mechanics and Quantum Computation](https://learning.edx.org/course/course-v1:BerkeleyX+CS-191x+2T2020/home). edX. 2020.
+* [CS191] Umesh Vazirani. [Berkeley CS191: Qubits, Quantum Mechanics, and Computers](https://inst.eecs.berkeley.edu/~cs191/sp12/). 2012.
 * [CS269Q] Dan Boneh, Will Zeng, [CS 269Q: Quantum Computer Programming](https://cs269q.stanford.edu/index.html), Stanford University, 2019
 * [Qiskit] [Qiskit](https://qiskit.org): is an open source SDK for working with quantum computers at the level of pulses, circuits and algorithms. IBM.
 * [IBMQE] [IBM Quantum](https://quantum-computing.ibm.com): Learn, develop, and run quantum programs.
