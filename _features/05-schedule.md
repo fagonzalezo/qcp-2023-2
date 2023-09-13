@@ -87,7 +87,7 @@ image:
 			</td>
 			<td>
 				<a href="exercises3.pdf">Exercise set 3</a><br>
-				<!-- <a href="https://colab.research.google.com/drive/1eO25UKnQ9khY4zjoNdMgkPxGU9HJ64cT?usp=sharing">Assignment 2</a> -->
+				<a href="https://colab.research.google.com/drive/1eO25UKnQ9khY4zjoNdMgkPxGU9HJ64cT?usp=sharing">Assignment 2</a>
 			</td>
 		</tr>
 		<tr>
