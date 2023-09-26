@@ -135,15 +135,13 @@ image:
 				<b>Asynchronous class</b>: <br>
 				Multiple qubit gates (<a href= "https://drive.google.com/file/d/1boIThex56zXxQRZ9Oc2NBX-6QYugCOSt/view?usp=sharing">video 1</a>)(<a href= "https://drive.google.com/file/d/1WtzyyLEa5KrW5-PJP0eFKkA6Dgy79m-b/view?usp=sharing">video 2</a>)(<a href= "https://drive.google.com/file/d/16ZPcY5hMWfwGH3AgnE2FkpwyEam1VTuP/view?usp=sharing">video 3</a>)<br>
 				<b>Reading material</b>: <br>
-				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/introduction/entangled-states">Introduction to quantum computing: Entangled states</a><br>
-				[Qiskit-TB] <a href="https://learn.qiskit.org/course/basics/multiple-systems">  Basics of quantum information: Multiple systems </a><br>
-				[Asfaw19] <a href= "https://nbviewer.org/github/qiskit-community/qiskit-textbook/blob/main/content/ch-gates/multiple-qubits-entangled-states.ipynb">2.2 Multiple Qubits and Entangled States</a><br>
-				[Asfaw19] <a href= "https://nbviewer.org/github/qiskit-community/qiskit-textbook/blob/main/content/ch-gates/phase-kickback.ipynb">2.3 Phase Kickback</a><br>
-				[Asfaw19] <a href= "https://nbviewer.org/github/qiskit-community/qiskit-textbook/blob/main/content/ch-gates/more-circuit-identities.ipynb">2.4 More Circuit Identities</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-gates/multiple-qubits-and-entangled-states">Multiple Qubits and Entangled States</a><br>
+				[Qiskit-TB] <a href="https://learn.qiskit.org/course/ch-gates/phase-kickback">Phase Kickback</a><br>
+				[Qiskit-TB] <a href="https://learn.qiskit.org/course/ch-gates/basic-circuit-identities">Basic Circuit Identities</a><br>
 			</td>
 			<td>
 				<a href="exercises5.pdf">Exercise set 5</a><br>
-				<!-- <a href="https://colab.research.google.com/drive/1LqX6AN2o-2jacsQK5mx5156hsyJsuG_i?usp=sharing">Assignment 3</a><br> -->
+				<a href="https://colab.research.google.com/drive/1LqX6AN2o-2jacsQK5mx5156hsyJsuG_i?usp=sharing">Assignment 3</a><br>
 			</td>
 		</tr>
 		<tr>
@@ -155,8 +153,8 @@ image:
 				<b>Asynchronous class</b>: <br>
 				Superdense coding and teleportation (<a href= "https://drive.google.com/file/d/1c-b9MgG5yGsXzitTTHc0y8n9I0sDbsax/view?t=11">video 1</a>)(<a href= "https://drive.google.com/file/d/1WclOxhhLPjV5gayrUxozyjzOJmirZMJr/view?t=273">video 2</a>)<br>
 				<b>Reading material</b>: <br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/teleportation.html">3.10 Quantum Teleportation</a><br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/superdense-coding.html">3.11 Superdense Coding</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/quantum-teleportation">Quantum Teleportation</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/superdense-coding">Superdense Coding</a><br>
 			</td>
 			<td>
 			<a href="exercises6.pdf">Exercise set 6</a><br>
@@ -173,8 +171,8 @@ image:
 				Deutsch-Joza algorithm (<a href= "QCP-2020-2 Deutsch-Jozsa_Algorithm.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/13dnpn4GKOETNRySGzA_UI7GJT6vxzanR/view?usp=sharing">video 1</a>)<br>
 				Simon's algorithm (<a href= "QCP-2020-2_Simons_algorithm.pdf">slides</a>)(<a href= "https://drive.google.com/file/d/1mjC1PqrfACG80sVy0_Zozd4pbeMwc4sx/view?usp=sharing">video 1</a>, <a href= "https://drive.google.com/file/d/1F-vZc3-nwLHFo4ecswJJeXSryzy5DZGd/view?usp=sharing">video 2</a>) <br>
 				<b>Reading material</b>: <br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/deutsch-jozsa.html">3.2 Deutsch-Jozsa Algorithm</a><br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/simon.html">3.4 Simon's Algorithm</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/deutsch-jozsa-algorithm">Deutsch-Jozsa Algorithm</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/simons-algorithm">Simon's Algorithm</a><br>
 			</td>
 			<td>
 			</td>
@@ -189,10 +187,10 @@ image:
 			</td>
 			<td>
 			<b>Reading material</b>: <br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/quantum-fourier-transform.html">3.5 Quantum Fourier Transform</a><br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/quantum-phase-estimation.html">3.6 Quantum Phase Estimation</a><br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/shor.html">3.7 Shor's Algorithm</a><br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-algorithms/grover.html">3.8 Grover's Algorithm</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/quantum-fourier-transform">Quantum Fourier Transform</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/quantum-phase-estimation">Quantum Phase Estimation</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/shors-algorithm">Shor's Algorithm</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/grovers-algorithm">Grover's Algorithm</a><br>
 			</td>
 			<td>
 				<a href="project.pdf">Final Project</a><br>
@@ -205,10 +203,10 @@ image:
 			</td>
 			<td>
 				<b>Reading material</b>: <br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/hhl_tutorial.html">4.1.1 Solving Linear Systems of Equations using HHL</a><br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/vqe-molecules.html">4.1.2 Simulating Molecules using VQE</a><br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/qaoa.html">4.1.3 Solving combinatorial optimization problems using QAOA</a><br>
-				[Asfaw19] <a href= "https://qiskit.org/textbook/ch-applications/satisfiability-grover.html">4.1.4 Solving Satisfiability Problems using Grover's Algorithm</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-applications/solving-linear-systems-of-equations-using-hhl-and-its-qiskit-implementation">Solving Linear Systems of Equations using HHL</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-applications/simulating-molecules-using-vqe">Simulating Molecules using VQE</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-applications/solving-combinatorial-optimization-problems-using-qaoa">Solving combinatorial optimization problems using QAOA</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-applications/solving-satisfiability-problems-using-grovers-algorithm">Solving Satisfiability Problems using Grover's Algorithm</a><br>
 			</td>
 			<td>
 			</td>
