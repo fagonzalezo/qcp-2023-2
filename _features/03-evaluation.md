@@ -12,4 +12,4 @@ image:
 * Exam 20%
 * Final project 20%
 
-[Grades]()
+[Grades](https://docs.google.com/spreadsheets/d/1EwUPizcHsice9gr-T5-2hMjZai2JjvyoQ5O5gwzJukg/edit?usp=sharing)
