@@ -193,11 +193,10 @@ image:
 				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-algorithms/grovers-algorithm">Grover's Algorithm</a><br>
 			</td>
 			<td>
-				<a href="project.pdf">Final Project</a><br>
 			</td>
 		</tr>
 		<tr>
-			<td>Oct 31-Nov 7</td>
+			<td>Oct 31</td>
 			<td>
 				2.9 Quantum algorithms for applications
 			</td>
@@ -209,10 +208,11 @@ image:
 				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/ch-applications/solving-satisfiability-problems-using-grovers-algorithm">Solving Satisfiability Problems using Grover's Algorithm</a><br>
 			</td>
 			<td>
+				<a href="project.pdf">Final Project</a><br>
 			</td>
 		</tr>
 		<tr>
-			<td>Nov 14</td>
+			<td>Nov 7</td>
 			<td>
 				3.1 Quantum machine learning algorithms<br>
 				3.2 Quantum variational learning
@@ -228,6 +228,17 @@ image:
 			</td>
 		</tr>
 		<tr>
+			<td>Nov 14</td>
+			<td>
+				3.1 Quantum machine learning algorithms<br>
+			</td>
+			<td>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/machine-learning/introduction">Solving Linear Systems of Equations using HHL</a><br>
+			</td>
+			<td>
+			</td>
+		</tr>
+		<tr>
 			<td>Nov 21</td>
 			<td>
 				3.3 Quantum machine learning algorithms
@@ -235,6 +246,16 @@ image:
 			<td>
 			</td>
 			<td>
+			</td>
+		</tr>
+		<tr>
+			<td>Nov 30</td>
+			<td>
+			</td>
+			<td>
+			</td>
+			<td>
+				Final project
 			</td>
 		</tr>
 	</tbody>
