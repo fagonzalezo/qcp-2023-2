@@ -233,7 +233,7 @@ image:
 				3.1 Quantum machine learning algorithms<br>
 			</td>
 			<td>
-				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/machine-learning/introduction">Solving Linear Systems of Equations using HHL</a><br>
+				[Qiskit-TB] <a href= "https://learn.qiskit.org/course/machine-learning/introduction">Quantum Machine Learning</a><br>
 			</td>
 			<td>
 			</td>
