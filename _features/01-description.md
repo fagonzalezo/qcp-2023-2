@@ -7,7 +7,7 @@ image:
 ---
 
 ### Instructor
-[Fabio A. González](http://dis.unal.edu.co/~fgonza/)  
+[Fabio A. González](https://fagonzalezo.github.io)  
 *Departamento de Ingeniería de Sistemas y Computación*  
 *Universidad Nacional de Colombia*
 
